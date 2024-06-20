@@ -2,7 +2,7 @@ repo_name: rlfagan/rcsjta
 report_id: b2acece675d6be9770ae466ca28374cb
 version: 0.1
 repo_type: Public
-timestamp: '2024-06-20T23:05:56+00:00'
+timestamp: '2024-06-20T23:20:22+00:00'
 requested_by: yplo6403
 provider: github
 branch: master
@@ -62,8 +62,6 @@ tools:
   image_url: https://img.stackshare.io/service/1010/m8jf0po4imu8t5eemjdd.png
   detection_source_url: https://github.com/rlfagan/rcsjta/blob/master/RI/build.gradle
   detection_source: RI/build.gradle
-  last_updated_by: Philippe LEMORDANT
-  last_updated_on: 2017-01-30 16:32:21.000000000 Z
 - name: Git
   description: Fast, scalable, distributed revision control system
   website_url: http://git-scm.com/
@@ -85,8 +83,6 @@ tools:
   image_url: https://img.stackshare.io/service/975/gradlephant-social-black-bg.png
   detection_source_url: https://github.com/rlfagan/rcsjta/blob/master/RI/build.gradle
   detection_source: RI/build.gradle
-  last_updated_by: Marcus Bauer
-  last_updated_on: 2015-09-07 08:30:17.000000000 Z
 - name: dnsjava:dnsjava
   description: Dnsjava is an implementation of DNS in Java
   version: 2.1.7
@@ -98,5 +94,3 @@ tools:
   image_url: https://img.stackshare.io/package/maven/image.png
   detection_source_url: https://github.com/rlfagan/rcsjta/blob/master/core/build.gradle
   detection_source: core/build.gradle
-  last_updated_by: Philippe LEMORDANT
-  last_updated_on: 2016-05-11 09:56:17.000000000 Z
