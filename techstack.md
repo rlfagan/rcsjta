@@ -114,7 +114,7 @@ Full tech stack [here](/techstack.md)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[dnsjava:dnsjava](http://www.dnsjava.org)|v2.1.7|05/11/16|Philippe LEMORDANT |BSD-3-Clause|N/A|
+|[dnsjava:dnsjava](http://www.dnsjava.org)|v2.1.7|N/A|N/A |BSD-3-Clause|N/A|
 
 <br/>
 <div align='center'>
