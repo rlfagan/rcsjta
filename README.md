@@ -1,4 +1,6 @@
 # rcsjta
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2Frcsjta.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2Frcsjta?ref=badge_shield)
+
 RCS-e stack for Android with GSMA API **RCS-e stack for Android with GSMA API**
 
 <img src='https://github.com/android-rcs/rcsjta/blob/master/docs/website/twitter-bird-16x16.png'> <a href='http://twitter.com/androidrcsstack'>Follow @androidrcsstack</a><br>
@@ -23,6 +25,9 @@ The RCS core stack is under [Apache 2 license](https://rawgit.com/android-rcs/rc
 - the DNS stack comes from [DNSJava project](http://www.dnsjava.org/), see [License](https://rawgit.com/android-rcs/rcsjta/master/core/LICENSE-DNS.txt).
 
 - the cryptography API comes from Legion of the [Bouncy Castle Inc] (https://www.bouncycastle.org/), see [License](https://rawgit.com/android-rcs/rcsjta/master/core/LICENSE-BOUNCYCASTLE.txt).
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2Frcsjta.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2Frcsjta?ref=badge_large)
 
 ##Project:
 
@@ -57,7 +62,3 @@ The RCS core stack is under [Apache 2 license](https://rawgit.com/android-rcs/rc
 ##More docs:
 
 - see [Wiki](https://github.com/android-rcs/rcsjta/wiki).
-
-
-
-
